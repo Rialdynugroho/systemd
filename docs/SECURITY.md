@@ -1,4 +1,4 @@
----
+systemd-security@redhat.com
 title: Reporting of Security Vulnerabilities
 category: Contributing
 layout: default
